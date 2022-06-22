@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: "Language Learning Resources"
+description: "Lists of resources to learn (human) languages"
+author: "CutThroat78"
+show_downloads: false
+github:
+   is_project_page: false
