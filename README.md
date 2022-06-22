@@ -1,5 +1,5 @@
-# Trans-Voice-Notes
-My trans voice notes in markdown. I made this repo, so I have an easy place to read these notes and keep them somewhere safe just in case the originals version of them going missing/down
+# Trans Voice Notes
+My trans voice notes (for MTF/transfeminine) in markdown. I made this repo, so I have an easy place to read these notes and keep them somewhere safe just in case the originals version of them going missing/down
 
 ## Files and their sources
 _ come froms [L's Voice Training Guide (Level 1) for MTF transgender vocal feminization](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)
