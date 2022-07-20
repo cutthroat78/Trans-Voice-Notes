@@ -4,7 +4,7 @@ My trans voice notes (for MTF/transfeminine) in markdown. I made this repo, so I
 [Github Pages](https://cutthroat78.github.io/Trans-Voice-Notes/)
 
 ## Files and their sources
-- _ come froms [L's Voice Training Guide (Level 1) for MTF transgender vocal feminization](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)
+- [l-guide.md](l-guide.md) come froms [L's Voice Training Guide (Level 1) for MTF transgender vocal feminization](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/)
 - _ comes from [Voice Feminization Guidelines](https://docs.google.com/document/d/1ZE5q1xZMp2kCaB1VE0Tt6yIg70aghALkvGmfLN9zG6c/edit#heading=h.6n818ckiq8ss)
 - _ comes from [Transfeminine Voice Guide - Ama (Transvoice Article Scinguistics (Dakota))](https://docs.google.com/document/d/1j_-8dndFzKTX0xBSF15ZEJWdw958ryh0IPKq1sz8p04/edit)
 
